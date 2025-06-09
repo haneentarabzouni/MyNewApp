@@ -20,7 +20,7 @@ export default function WelcomeScreen({ navigation }) {
 
       {/* ✅ النص الترحيبي */}
       <View style={styles.textContainer}>
-        <Text style={styles.title}>أهلًا بك في حيا</Text>
+        <Text style={styles.title}> hi </Text>
         <Text style={styles.subtitle}>تجربتك المالية الفريدة تبدأ من هنا</Text>
       </View>
 
